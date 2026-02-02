@@ -1,3 +1,5 @@
+# Hi 👋🏻, I'm Prakruthi S L
+# A passionate developer from India 🇮🇳
 # 💫 About Me:
 • 🔭 I’m currently working on improving my coding skills<br>• 👯 I’m looking to collaborate on coding projects<br>• 🌱 I’m currently learning computer science fundamentals<br>• 💬 Ask me about programming and CS basics<br>• ⚡ Fun fact I enjoy learning new tech skills<br>• 📫 Reach out to me at prakruthi.sl03@gmail.com
 
