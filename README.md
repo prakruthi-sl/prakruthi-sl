@@ -4,18 +4,18 @@
 - 🔭 I’m currently working on improving my           
 coding skills<br>
 
-• 👯 I’m looking to collaborate on coding
+- 👯 I’m looking to collaborate on coding
 projects<br>
 
-• 🌱 I’m currently learning computer science 
+- 🌱 I’m currently learning computer science 
 fundamentals<br>
 
-• 💬 Ask me about programming and CS        basics<br>
+- 💬 Ask me about programming and CS        basics<br>
 
-• ⚡ Fun fact I enjoy learning new tech 
+- ⚡ Fun fact I enjoy learning new tech 
 skills<br>
 
-• 📫 Reach out to me at 
+- 📫 Reach out to me at 
 prakruthi.sl03@gmail.com
 
 ## Connect with me:
