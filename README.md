@@ -1,6 +1,7 @@
 # Hi 👋🏻, I'm Prakruthi S L
 ### A passionate developer from India 🇮🇳
-[![](https://visitcount.itsvg.in/api?id=prakruthi-sl&icon=0&color=12)](https://visitcount.itsvg.in)• 🔭 I’m currently working on improving my           
+[![](https://visitcount.itsvg.in/api?id=prakruthi-sl&icon=0&color=12)](https://visitcount.itsvg.in) 
+- 🔭 I’m currently working on improving my           
 coding skills<br>
 
 • 👯 I’m looking to collaborate on coding
