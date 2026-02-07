@@ -1,6 +1,12 @@
 # Hi 👋🏻, I'm Prakruthi S L
-### A passionate developer from India 🇮🇳
-[![](https://visitcount.itsvg.in/api?id=prakruthi-sl&icon=0&color=12)](https://visitcount.itsvg.in)• 🔭 I’m currently working on improving my coding skills<br>• 👯 I’m looking to collaborate on coding projects<br>• 🌱 I’m currently learning computer science fundamentals<br>• 💬 Ask me about programming and CS basics<br>• ⚡ Fun fact I enjoy learning new tech skills<br>• 📫 Reach out to me at prakruthi.sl03@gmail.com
+#### A passionate developer from India 🇮🇳
+[![](https://visitcount.itsvg.in/api?id=prakruthi-sl&icon=0&color=12)](https://visitcount.itsvg.in)
+ • 🔭 I’m currently working on improving my coding skills<br>
+ • 👯 I’m looking to collaborate on coding projects<br>
+ • 🌱 I’m currently learning computer science fundamentals<br>
+ • 💬 Ask me about programming and CS basics<br>
+ • ⚡ Fun fact I enjoy learning new tech skills<br>
+ • 📫 Reach out to me at prakruthi.sl03@gmail.com
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakruthi-sl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakruthi.sl03@gmail.com) 
 ## GitHub Stats:
