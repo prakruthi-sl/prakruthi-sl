@@ -3,11 +3,12 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prakruthi-sl&label=Profile%20views&color=0e75b6&style=flat" />
 </p> 
+
 - 🔭 I’m currently working on improving my coding skills<br>
 
 - 👯 I’m looking to collaborate on coding projects<br>
 
-- 🌱 I’m currently learning computer science fundamentals<br>
+- 🌱 I'm currently learning computer science fundamentals<br>
 
 - 💬 Ask me about programming and CS basics<br>
 
